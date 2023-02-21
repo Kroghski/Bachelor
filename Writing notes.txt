@@ -1,0 +1,7 @@
+Notes for bachelor writing
+
+
+ON THE CONSTRUCTION OF 5-FOLD QUASICRYSTAL
+For the construction of a 5-fold rotational symmetric quasi crystal we will be using Penrose tiling.
+Specifically we will be using the P3 tiling which uses 2 rhombuses to create an aperiodic tiling. 
+P3 uses one rhomb with angles 36 degrees and 144 degrees, and the other with angles 72 degrees and 108 degrees.
