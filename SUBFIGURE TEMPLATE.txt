@@ -3,6 +3,6 @@ SUBFIGURE TEMPLATE
 \begin{figure}[ht]
     \subfloat[]{\includegraphics[trim= 0cm 0cm 0cm 0cm, clip, width= 0.49\textwidth]{}\label{subfig:}}
     \subfloat[]{\includegraphics[trim= 0cm 0cm 0cm 0cm, clip, width= 0.49\textwidth]{}\label{subfig:}}
-    \caption{}
+    \caption{}1
     \label{fig:}
 \end{figure}
