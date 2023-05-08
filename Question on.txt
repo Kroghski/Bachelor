@@ -1,5 +1,0 @@
-Appears to be that in the steep is only edge states for the E/state plot, expanding slightly includes bulk states.
-
-Current limits was 1.5 as low and 2.175 as high.
-
-How much so be included??

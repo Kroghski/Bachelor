@@ -1,3 +1,0 @@
-Appears to be that in the steep is only edge states for the E/state plot, expanding slightly includes bulk states.
-
-What??

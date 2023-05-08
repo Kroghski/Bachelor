@@ -1,0 +1,8 @@
+Appears to be that in the steep is only edge states for the E/state plot, expanding slightly includes bulk states.
+Current limits was 1.5 as low and 2.175 as high.
+How much so be included?
+
+
+Prob form:
+" I will then study the dynamics starting from initial states that have overlap with the topological states. "
+Overlap with topological states? How should the initial state be constructed then? Simply linear combinations of eigenvectors with probability density in the same general area of the quasicrystal?
