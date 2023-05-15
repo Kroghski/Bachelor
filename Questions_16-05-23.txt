@@ -1,0 +1,12 @@
+Questions 16/05/23
+
+
+How mauch in gap for blt - they seem to only appear on fringe of gap?
+
+
+Excitation in article 1. Does "we excite a single site of..." mean we just localise a particle to a site.
+As imagining many atoms bound and taking one atom from which we excited one electron?
+
+
+In "AB_BLT_search_different_flux_0.69_interest" does the pictured gap consider one or two gaps. Question being if this is what we want when searching for BLT states.
+Hypothesis: BLT states cannot have great delta E like ES has - as the latter is always found in clear gaps.
