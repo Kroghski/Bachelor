@@ -1,8 +1,9 @@
 SUBFIGURE TEMPLATE
 
-\begin{figure}[ht]
-    \subfloat[]{\includegraphics[trim= 0cm 0cm 0cm 0cm, clip, width= 0.49\textwidth]{}\label{subfig:}}
-    \subfloat[]{\includegraphics[trim= 0cm 0cm 0cm 0cm, clip, width= 0.49\textwidth]{}\label{subfig:}}
-    \caption{}1
+\begin{figure}[h!]
+    \subfloat[5-fold]{\includegraphics[width= 0.3\textwidth]{}}
+    \subfloat[5-fold]{\includegraphics[width= 0.3\textwidth]{}}
+    \subfloat[5-fold]{\includegraphics[width= 0.3\textwidth]{}}
+    \caption{}
     \label{fig:}
 \end{figure}
