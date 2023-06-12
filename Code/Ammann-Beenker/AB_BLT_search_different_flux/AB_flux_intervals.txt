@@ -1,6 +1,7 @@
 AB_flux_intervals
 
 Flux, l1, u1, l2, u2
+0.036, 2.6, 3.8, 3.15, 3.46 --- 1st interval
 0.25, 1.2, 2.3, 1.35, 2.18 --- larger interval
 0.25, 1.2, 2.3, 1.57, 2.13 --- smaller interval
 0.55, 0, 0.8, 0.15, 0.65
